@@ -19,10 +19,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Documents" Type="Folder">
-			<Item Name="EU_dryve-control_web.pdf" Type="Document" URL="../Documents/EU_dryve-control_web.pdf"/>
-			<Item Name="Operating Manual dryve D1 V1.1.PDF" Type="Document" URL="../Documents/Operating Manual dryve D1 V1.1.PDF"/>
-		</Item>
+		<Item Name="Documents" Type="Folder"/>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="MotionController" Type="Folder">
 				<Item Name="IgusMotorDrive.lvclass" Type="LVClass" URL="../Modules/Classes/Igus-motor-drive/IgusMotorDrive.lvclass"/>
